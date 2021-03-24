@@ -1,5 +1,5 @@
 # Cadastro-Serie
-Primeiro programa utilizando .NET, que tem como finalidade cadastrar séries com listas. 
+Essse é meu primeiro programa com .NET e c# , que tem como finalidade cadastrar séries utilizando listas. 
 
 
 # Como rodar o programa no Terminal? 
