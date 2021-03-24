@@ -1,0 +1,13 @@
+/home/maria/Documentos/Series/bin/Debug/netcoreapp3.1/Series
+/home/maria/Documentos/Series/bin/Debug/netcoreapp3.1/Series.deps.json
+/home/maria/Documentos/Series/bin/Debug/netcoreapp3.1/Series.runtimeconfig.json
+/home/maria/Documentos/Series/bin/Debug/netcoreapp3.1/Series.runtimeconfig.dev.json
+/home/maria/Documentos/Series/bin/Debug/netcoreapp3.1/Series.dll
+/home/maria/Documentos/Series/bin/Debug/netcoreapp3.1/Series.pdb
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.csprojAssemblyReference.cache
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.AssemblyInfoInputs.cache
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.AssemblyInfo.cs
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.csproj.CoreCompileInputs.cache
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.dll
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.pdb
+/home/maria/Documentos/Series/obj/Debug/netcoreapp3.1/Series.genruntimeconfig.cache
